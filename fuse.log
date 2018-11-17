@@ -1,0 +1,41 @@
+Running: C:\Users\Public\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/TopModule_tf_isim_beh.exe -prj C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/TopModule_tf_beh.prj work.TopModule_tf work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/ticker2.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/pixel_controller.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/hex_to_7_segment.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/DFlipFlop.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/ad_mux.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/ticker.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/PositiveEdgeDetector.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/Display_Controller.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/Debounce.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/counter.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/AISO.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/TopModule.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/TopModule_tf.v" into library work
+Analyzing Verilog file "C:/Users/Public/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module DFlipFlop
+Compiling module AISO
+Compiling module ticker
+Compiling module Debounce
+Compiling module PositiveEdgeDetect
+Compiling module counter
+Compiling module hex_to_7_segment
+Compiling module pixel_controller
+Compiling module ad_mux
+Compiling module ticker2
+Compiling module Display_Controller
+Compiling module TopModule
+Compiling module TopModule_tf
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 7 sub-compilation(s) to finish...
+Compiled 14 Verilog Units
+Built simulation executable C:/Users/Sandeep Kooner/Desktop/360Labs/Project1DebouncedCounter/TopModule_tf_isim_beh.exe
+Fuse Memory Usage: 27820 KB
+Fuse CPU Usage: 781 ms
